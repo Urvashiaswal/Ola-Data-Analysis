@@ -19,7 +19,7 @@ Questions:
 - Dashboard Interaction <a href="https://github.com/Urvashiaswal/Ola-Data-Analysis/blob/main/OLA%20Dashboard.pdf">View Dashboard
 
 ## Process
-- Verify data for any missing values ,Data type and sort out the same.
+- Verify data for any missing values , Data type and sort out the same by using Power query editor.
 - Generated multiple KPI's for getting actionable insights.
 - Created measures to get desirable output. 
-- Developed various charts such as line chart, stacked chart, pie chart etc.
+- Developed various table and charts such as line chart, stacked chart, pie chart etc.
