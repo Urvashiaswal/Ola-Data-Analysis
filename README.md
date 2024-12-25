@@ -1,6 +1,6 @@
 # Ola-Data-Analysis-(Interactive Dashboard creation using Microsoft Power Bi)
 Using Power BI, I built a project involving data cleaning, manipulation, &amp; visualization. KPIs drove actionable insights, shown in a dynamic dashboard with pie &amp; line charts, other power bi tools.
-##Dataset Used
+## Dataset Used
 
 - <a href="https://github.com/Urvashiaswal/Ola-Data-Analysis/blob/main/Bookings.xlsx">Dataset
 
@@ -18,8 +18,8 @@ Questions:
 
 - Dashboard Interaction <a hrf="https://github.com/Urvashiaswal/Ola-Data-Analysis/blob/main/OLA%20Dashboard.pdf">View Dashboard
 
-##Process
-- Verify data for any missing values and sort out the same.
-- Generated KPI's for getting actionable insights.
-- Create measurs to get desirable output. 
+## Process
+- Verify data for any missing values ,Data type and sort out the same.
+- Generated multiple KPI's for getting actionable insights.
+- Created measures to get desirable output. 
 - Developed various charts such as line chart, stacked chart, pie chart etc.
