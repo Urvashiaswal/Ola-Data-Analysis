@@ -16,7 +16,7 @@ Questions:
 9. Driver Ratings Distribution
 10. Customer vs. Driver Ratings
 
-- Dashboard Interaction <a hrf="https://github.com/Urvashiaswal/Ola-Data-Analysis/blob/main/OLA%20Dashboard.pdf">View Dashboard<a/>
+- Dashboard Interaction <a hrf="https://github.com/Urvashiaswal/Ola-Data-Analysis/blob/main/OLA%20Dashboard.pdf">View Dashboard
 
 ##Process
 - Verify data for any missing values and sort out the same.
