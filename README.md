@@ -23,3 +23,12 @@ Questions:
 - Generated multiple KPI's for getting actionable insights.
 - Created measures to get desirable output. 
 - Developed various table and charts such as line chart, stacked chart, pie chart etc.
+
+## Project Insight
+- Successful booking rate is 62.09% in July month. Booking cancelled by drivers is higher than cancelled by customers.
+- Ola vehicle Booking count is less at the end of July month.
+- Prime Sedan generated high revenue 5.22M and Total distance travelled 234.5k
+- Prime SUV generated less revenue 4.88M than other vehicles.
+- Cash and UPI payment methods are more liked by customers.
+- cancellation rate is 28%.
+- Prime SUV and Prime plus got high rating 4.01 by customers whereas Prime SUV and E-bike got high rating 4.01 by Drivers.
